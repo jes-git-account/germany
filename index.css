@@ -1,0 +1,10 @@
+.parent {
+    text-align: center;  
+  }
+  
+  .text {
+    font-size: 100px;
+    position: relative;
+    top: 50%;
+    transform: translate(0, 400%);
+  }
