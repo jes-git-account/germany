@@ -8,9 +8,16 @@
   margin: 0;
 }
 
-h1{
+h1 {
 
   color: azure;
+  font-size :70px
+
+}
+
+p {
+  width: 1500px;
+  line-height: 2.7cm ;
 
 }
 
@@ -28,7 +35,7 @@ body {
 }
 
 .container {
-  width: 70% ;
+  width: 80%;
   margin: 90px auto;
   display: grid;
   grid-gap: 90px;
@@ -101,10 +108,10 @@ body {
 
 .box .content h2,
 .box .content p {
-  padding: 10px;
-  font-size: 1.3rem;
+  padding: 30px;
+  font-size: 2.5rem;
 }
 
 .box:hover img {
-  opacity: 0.4;
+  opacity: 0.5;
 }
